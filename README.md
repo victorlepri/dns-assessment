@@ -69,16 +69,6 @@ Upon execution, the script checks for these dependencies. If any are missing, it
 
 ---
 
-## 🌐 Remote Execution
-
-To run the script without cloning the repository:
-
-```bash
-curl -s https://raw.githubusercontent.com/victorlepri/dns-assessment/main/dns-assessment.sh | bash
-```
-
----
-
 ## 📁 Output Directory
 
 All assessment reports are stored in the `domain_reports/` directory. 
